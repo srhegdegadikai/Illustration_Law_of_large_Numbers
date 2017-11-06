@@ -12,3 +12,7 @@ The following R-shiny application lets the users play with different sample size
 
     # run the application 
     runGist("7ff89bc3858de914f5514a7dc1a9d32c")
+
+If you don't have R and Rstudio installed on your machine, you can go to the link below and use the application.
+
+[LLN-shiny-app](https://suhas-hegde.shinyapps.io/law_of_large_numbers/)
